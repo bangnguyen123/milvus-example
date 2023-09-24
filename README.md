@@ -1,6 +1,6 @@
 # Docs
 Milvus: https://milvus.io/docs
-# Intallation
+# Milvus Intallation 
 ## 1. Install Docker
 https://docs.docker.com/desktop/install/mac-install/
 ## 2. Install Milvus Standalone
@@ -10,3 +10,8 @@ https://docs.docker.com/desktop/install/mac-install/
 - `docker compose up -d`
 ## 3. Access attu to monitor
 - 0.0.0.0:8000
+# Sep up code
+- 1. Create you virtual env
+- 2. Activate the virual env
+- 3. pip install pipenv
+- 4. pipenv install
