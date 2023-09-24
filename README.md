@@ -2,6 +2,7 @@
 Milvus: https://milvus.io/docs
 # Intallation
 ## 1. Install Docker
+https://docs.docker.com/desktop/install/mac-install/
 ## 2. Install Milvus Standalone
 - I am using Macbook M1 (Chip M1 Pro)
 - I have use to arm image to run on my Machine
