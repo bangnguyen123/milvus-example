@@ -8,6 +8,7 @@ torch = "*"
 gdown = "*"
 torchvision = "*"
 tqdm = "*"
+matplotlib = "*"
 
 [dev-packages]
 
