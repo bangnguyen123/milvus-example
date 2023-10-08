@@ -1,5 +1,13 @@
 volumes/
 
-#image search
+# image search
 pytorch-image-search/paintings.*
 pytorch-image-search/paintings/
+
+# resevers-image-search
+reverse-image-search-with-towhee/exception
+reverse-image-search-with-towhee/object
+reverse-image-search-with-towhee/test
+reverse-image-search-with-towhee/train
+reverse-image-search-with-towhee/reverse_image_search.csv
+reverse-image-search-with-towhee/reverse_image_search.zip
